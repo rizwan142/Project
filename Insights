@@ -1,0 +1,29 @@
+Key Insights & Findings
+
+Target Audience: Women are the primary buyers, contributing to approximately 64% of total sales.
+Age Demographics: The Adult age group (30-49 years) is the highest contributing segment (~50%).
+Top Channels: Amazon, Myntra, and Flipkart are the leading sales channels, with Amazon alone accounting for ~35% of total orders.
+Regional Dominance: Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states, making up a significant portion of the revenue.
+Peak Month: March recorded the highest sales and order volume during the year.
+Order Fulfillment: More than 90% of orders were successfully delivered.
+
+🛠️ Tools & Technologies Used
+Microsoft Excel: Used for data cleaning, processing, and creating pivot tables.
+Data Visualization: Interactive dashboards and charts (Bar charts, Pie charts, and Line graphs) were used to represent the trends.
+Data Cleaning: Handled missing values, standardized categories (e.g., consistent naming for Gender and Size), and created new columns like "Age Group".
+
+📁 Dataset Description
+The dataset includes over 31,000 rows of transactional data with the following attributes:
+Order ID & Cust ID: Unique identifiers for transactions and customers.
+Gender & Age Group: Demographic information.
+Channel: Sales platform (Amazon, Ajio, Myntra, etc.).
+Category & Size: Product details (Kurta, Set, Western Dress, etc.).
+Amount: Transaction value.
+Location: City and State of the customer.
+Status: Order status (Delivered, Cancelled, Returned, Refunded).
+
+🚀 Final Conclusion
+To improve sales in 2023, Vrinda Store should focus on:
+Targeting Women aged 30-49 through personalized marketing.
+Running promotional campaigns on Amazon and Myntra.
+Expanding inventory or localized ads in Maharashtra and Karnataka.
