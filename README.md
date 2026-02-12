@@ -1,0 +1,1 @@
+This project provides a comprehensive analysis of the Layan Store's sales data for the year 2022. The primary objective is to analyze customer behavior, sales trends, and channel performance to provide actionable insights that can help the store grow its business in 2023.
